@@ -1,4 +1,4 @@
-module github.com/gin-gonic/gin
+module github.com/gqp-xx/gin_learn
 
 go 1.20
 
